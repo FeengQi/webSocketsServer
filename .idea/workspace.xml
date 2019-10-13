@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77f0dbd4-9751-4b2b-863d-9320ebf20726" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S8ILyQaANtO7hAGaOOe0AgRjEo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../websocketServer/index.js" working-dir="$PROJECT_DIR$/../websocketServer">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/../websocketClient/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView />
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77f0dbd4-9751-4b2b-863d-9320ebf20726" name="Default Changelist" comment="" />
+      <created>1570938743905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570938743905</updated>
+      <workItem from="1570938746703" duration="9860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../websocketClient/src/pages/websocket/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1570945415900">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="274" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1570945415900" />
+    <state x="521" y="249" key="#start_(1)" timestamp="1570945423188">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="521" y="249" key="#start_(1)/36.23.1644.1027@36.23.1644.1027" timestamp="1570945423188" />
+    <state width="1183" height="196" key="GridCell.Tab.0.bottom" timestamp="1570977357860">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1183" height="196" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357860" />
+    <state width="1183" height="196" key="GridCell.Tab.0.center" timestamp="1570977357859">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1183" height="196" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357859" />
+    <state width="1183" height="196" key="GridCell.Tab.0.left" timestamp="1570977357843">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1183" height="196" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357843" />
+    <state width="1183" height="196" key="GridCell.Tab.0.right" timestamp="1570977357859">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1183" height="196" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357859" />
+    <state x="384" y="259" key="SettingsEditor" timestamp="1570938859870">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="384" y="259" key="SettingsEditor/36.23.1644.1027@36.23.1644.1027" timestamp="1570938859870" />
+    <state x="480" y="215" width="660" height="633" key="find.popup" timestamp="1570945967098">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="480" y="215" width="660" height="633" key="find.popup/36.23.1644.1027@36.23.1644.1027" timestamp="1570945967098" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1570945504261">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/36.23.1644.1027@36.23.1644.1027" timestamp="1570945504261" />
+  </component>
+</project>
