@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77f0dbd4-9751-4b2b-863d-9320ebf20726" name="Default Changelist" comment="" />
+    <list default="true" id="77f0dbd4-9751-4b2b-863d-9320ebf20726" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S8ILyQaANtO7hAGaOOe0AgRjEo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,9 +28,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,11 +46,21 @@
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../websocketServer/index.js" working-dir="$PROJECT_DIR$/../websocketServer">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../../WebstormProjects/tsantdpro/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm">
@@ -63,10 +82,12 @@
     <list>
       <item itemvalue="Node.js.index.js" />
       <item itemvalue="npm.start" />
+      <item itemvalue="npm.start (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.index.js" />
+        <item itemvalue="npm.start (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +108,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570938743905</updated>
-      <workItem from="1570938746703" duration="9860000" />
+      <workItem from="1570938746703" duration="10319000" />
+      <workItem from="1570981990778" duration="451000" />
+      <workItem from="1571149700122" duration="2659000" />
     </task>
     <servers />
   </component>
@@ -108,26 +131,30 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="521" y="249" key="#start_(1)/36.23.1644.1027@36.23.1644.1027" timestamp="1570945423188" />
-    <state width="1183" height="196" key="GridCell.Tab.0.bottom" timestamp="1570977357860">
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1571152527091">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1571152527091" />
+    <state width="1346" height="287" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1571152273403" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1571152527090">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1571152527090" />
+    <state width="1346" height="287" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1571152273402" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1571152527089">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1571152527089" />
+    <state width="1346" height="287" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1571152273402" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1571152527090">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1571152527090" />
+    <state width="1346" height="287" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1571152273403" />
+    <state x="384" y="259" key="SettingsEditor" timestamp="1571151098827">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
-    <state width="1183" height="196" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357860" />
-    <state width="1183" height="196" key="GridCell.Tab.0.center" timestamp="1570977357859">
-      <screen x="36" y="23" width="1644" height="1027" />
-    </state>
-    <state width="1183" height="196" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357859" />
-    <state width="1183" height="196" key="GridCell.Tab.0.left" timestamp="1570977357843">
-      <screen x="36" y="23" width="1644" height="1027" />
-    </state>
-    <state width="1183" height="196" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357843" />
-    <state width="1183" height="196" key="GridCell.Tab.0.right" timestamp="1570977357859">
-      <screen x="36" y="23" width="1644" height="1027" />
-    </state>
-    <state width="1183" height="196" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1570977357859" />
-    <state x="384" y="259" key="SettingsEditor" timestamp="1570938859870">
-      <screen x="36" y="23" width="1644" height="1027" />
-    </state>
-    <state x="384" y="259" key="SettingsEditor/36.23.1644.1027@36.23.1644.1027" timestamp="1570938859870" />
+    <state x="384" y="259" key="SettingsEditor/36.23.1644.1027@36.23.1644.1027" timestamp="1571151098827" />
     <state x="480" y="215" width="660" height="633" key="find.popup" timestamp="1570945967098">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
